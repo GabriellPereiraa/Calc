@@ -1,0 +1,360 @@
+/* 
+#RECURSOS NECESSARIOS
+
+Título
+Sub título
+Sub sub título
+Texto
+Importante
+Imagem com legenda
+Fique Atento
+Curiosidade
+Nota de rodapé
+Atividade
+Saiba Mais
+Texto negrito
+*/
+
+
+:root{
+    --FontePadrao: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !important;
+
+    /* Sendo utilizado */
+    --Cor01: #808080;
+    --CorPreto: #000000;
+    --CorImportante: #AF4345;
+    --CorFiqueAtento: #434343;
+    --CorCuriosidade: #C7DE0C;
+    --CorAtividade: #345c84;
+    --CorSaibaMais: #FBBC5C;
+
+
+    /* Não usado */
+    /*
+    --Cor01: #008445;
+    */
+    /* --Cor02: #FC6836;
+    --Cor03: #00A86B;
+    --CorIcon: #AAAAAA;
+    --CorBranca: #FFFFFF;
+    --CorCinza: #E9E9E9;
+    --CorLime: #B1D01A;
+    --CorCinzaArdosia: #708090; */
+    
+}
+
+/* NOVOS ESTILOS - BEGIN */
+
+.blockquoteEad {
+    /* padding: .5rem 1rem !important; */
+    /* margin-bottom: 1rem !important; */
+    /* font-size: 1.25rem !important; */
+    /* border-left: .25rem solid #4885AE !important; */
+    padding: .5rem 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    border-left: .25rem solid #4885AE
+}
+
+/* Titulo */
+.Titulo {
+    font-family: var(--FontePadrao);
+    font-size: 2.2em;
+    font-weight: bold;
+    color: var(--CorPreto);
+}
+
+
+/* Sub Titulo */
+.SubTitulo {
+    font-family: var(--FontePadrao);
+    font-size: 2em;   
+    font-weight: 600; 
+    color: var(--CorPreto);
+}
+
+/* Sub Sub Titulo */
+.SubSubTitulo {
+    font-family: var(--FontePadrao);
+    font-size: 1.5em;   
+    font-weight: 500; 
+    color: var(--CorPreto); 
+}
+
+/* Texto */
+.Texto {
+    font-family: sans-serif(--FontePadrao);
+    /* font-size: 1.5 em; */
+    font-size: 1.2em;
+    color: var(--CorPreto);
+} 
+
+/* Importante Titulo*/
+.ImportanteTitulo {
+    color: #FC6B30;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.ImportanteTitulo::before {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f06a";
+}
+/* Importante Texto */
+.ImportanteTexto {
+    font-family: var(--FontePadrao);
+    font-size: 1.3em;
+    color: var(--Cor01);
+    padding-left: 2em;
+}
+
+/* Titulo da Figura */
+.TituloFigura {
+    font-family: var(--FontePadrao);
+    font-size: 0.8em;
+    color: var(--CorPreto);
+}
+
+.TituloFiguraDireita{
+    font-family: var(--FontePadrao);
+    font-size: 0.8em;
+    color: var(--CorPreto);
+    text-align: right;
+   
+}
+/* Fonte/Leganda da Figura */
+.FonteFigura {
+    font-family: var(--FontePadrao);
+    font-size: 0.8em;
+    color: var(--CorPreto);
+}
+
+/* Fique Atento Titulo*/
+.FiqueAtentoTitulo {
+        color: #FC6B30;
+        text-align: left;
+        text-transform: uppercase;
+        font-size: 1.3em;
+        font-weight: bold;
+}
+.FiqueAtentoTitulo::before {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f06a";
+    color: #AF4345;
+}
+/* Fique Atento Texto */
+.FiqueAtentoTexto {
+    font-family: var(--FontePadrao);
+    font-size: 1.3em;
+    color: var(--Cor01);
+    padding-left: 2em;
+}
+
+/* Curiosidade Titulo*/
+.CuriosidadeTitulo {
+        color: #013f21;;
+        text-align: left;
+        text-transform: uppercase;
+        font-size: 1.3em;
+        font-weight: bold;
+}
+.CuriosidadeTitulo::before {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f0eb";
+    color: #008445;
+}
+/* Curiosidade Texto */
+.CuriosidadeTexto {
+    font-family: var(--FontePadrao);
+    font-size: 1em;
+    color: var(--Cor01);
+    padding-left: 2em;
+}
+
+/* Nota de rodapé */
+.NotaDeRodape {
+    font-family: var(--FontePadrao);
+    font-size: 0.8em;
+    font-weight: lighter;
+    color: var(--CorPreto);
+    padding-left: 2em;
+}
+
+/* Atividade Titulo*/
+.AtividadeTitulo {
+    color: var(--CorPreto);
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.AtividadeTitulo::before {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f044";
+    color: #345c84;
+    font-size: 1.5em;
+}
+/* Atividade Texto */
+.AtividadeTexto {
+    font-family: var(--FontePadrao);
+    font-size: 1.3em;
+    color: var(--Cor01);
+    padding-left: 2em;
+}
+
+/* Saiba Mais Titulo*/
+.SaibaMaisTitulo {
+    color: var(--CorPreto);
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.SaibaMaisTitulo::before {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f0eb";
+    color: #FBBC5C;
+}
+/* Saiba Mais Texto */
+.SaibaMaisTexto {
+    font-family: var(--FontePadrao);
+    font-size: 1em;
+    color: var(--Cor01);
+    padding-left: 2em;
+}
+
+/* Borda dica */
+.Dica{
+    border: 1px solid #013f21 ;
+    padding: 15px;
+}
+
+.CorLaranja {
+    color: hsl(22, 100%, 66%);
+}
+
+/*Cor Laranja Estado */
+.LaranjaEstado{
+    color: #FC6B30  
+}
+.tBody {
+    font-family: sans-serif(--FontePadrao);
+    /* font-size: 1.5 em; */
+    font-size: 0.8em;
+} 
+
+/* Fonte text-align left  */
+.left {
+    text-align: left;
+}
+
+
+/* Alert azul escuro */
+.alert-azul {
+    color: white;
+    background-color: #286ce6;
+    border-color: #286ce6;
+  }
+
+/* Cor azul */
+.Azul{
+    color: #286ce6;
+}
+/* Cor azul padrao Estado */
+.AzulEstado{
+    color: #4885AE;
+}
+
+
+/* Borda HR grossa da cor azul */
+.hr4 {
+    border: 0;
+    border-bottom: 10px solid #286ce6;
+    margin-top: -6px;
+  }
+
+/* Hr cor laranja */
+.hrLaranja{
+    border-bottom: 1px solid hsl(22, 100%, 66%);
+}
+
+/* Hr cor azul Estado*/
+.hrAEstado{
+    border-bottom: 1px solid #4885AE
+}
+
+/* Linha vertical */
+.vl{
+    border-left: 1px solid green;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: -40px;
+}
+
+/* Cor Texto padrão dos cards */
+#CardTexto{
+    color: #17a2b8;
+}
+
+/* Cor da Borda padrão dos cards */
+#CardBorda{
+    border-color: #17a2b8;
+}
+
+.BCorEad {
+    background: #4885AE;
+}
+
+.textmiddle {
+    vertical-align: middle!important;
+    text-align: center!important;
+}
+
+/* Classe para centralizar */
+.center{
+    justify-content: center;
+    display: flex;
+    align-items: center
+}
+
+.border{
+    border: 1px solid black;
+}
+
+/* Botão back to top */
+.botao_btt {
+    background: #004e0a none repeat scroll 0 0;
+    border-radius: 3px;
+    bottom: 50px;
+    cursor: pointer;
+    height: 40px;
+    position: fixed;
+    right: 30px;
+    text-align: center;
+    width: 40px;
+    z-index: 999;
+    transition: all 0.5s ease-out;
+  }
+  
+  .botao_btt:hover {
+    background: #2dc534; 
+  }
+  
+  .botao_btt i {
+    color: #fff;
+    font-size: 24px;
+    line-height: 38px;
+  }
+  
+  .invisivel {
+    visibility: hidden;
+    display: none;
+  }
+
+/* Fim da configuração do btn back to top */
