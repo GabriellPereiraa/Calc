@@ -88,12 +88,12 @@ include('layout/header.php');
             <ul class="fa-ul">
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"></span><li class="fas fa-arrow-right"></li> Selecione o número de colunas ou de linhas pressionando e segurando o botão esquerdo do mouse na primeira, e arraste o número necessário de identificadores.
+                        <span class="fa-li"></span><li class="fas fa-arrow-right LaranjaEstado"></li> Selecione o número de colunas ou de linhas pressionando e segurando o botão esquerdo do mouse na primeira, e arraste o número necessário de identificadores.
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"></span><li class="fas fa-arrow-right"></li> Proceda da mesma forma, como fosse inserir uma única linha ou coluna, conforme descrito acima.
+                        <span class="fa-li"></span><li class="fas fa-arrow-right LaranjaEstado"></li> Proceda da mesma forma, como fosse inserir uma única linha ou coluna, conforme descrito acima.
                     </p>
                 </li>
             </ul>

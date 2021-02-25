@@ -33,13 +33,13 @@ include('layout/header.php');
             </p>
             <ul class="fa-ul">
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Selecione a coluna ou linha a ser apagada;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Selecione a coluna ou linha a ser apagada;
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Clique com o botão direito do mouse no identificador da coluna ou linha;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Clique com o botão direito do mouse no identificador da coluna ou linha;
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Selecione <strong>Excluir Colunas</strong> ou <strong>Excluir Linhas</strong> no menu de contexto.
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Selecione <strong>Excluir Colunas</strong> ou <strong>Excluir Linhas</strong> no menu de contexto.
                 </li>
             </ul>
 
@@ -53,11 +53,11 @@ include('layout/header.php');
             </p>
             <ul class="fa-ul">
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Selecione as colunas que deseja apagar, pressionando o botão esquerdo do mouse na primeira, e arraste o número necessário de identificadores;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Selecione as colunas que deseja apagar, pressionando o botão esquerdo do mouse na primeira, e arraste o número necessário de identificadores;
 
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Proceda como se fosse apagar uma única coluna ou linha acima.
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Proceda como se fosse apagar uma única coluna ou linha acima.
                 </li>
             </ul>
 
