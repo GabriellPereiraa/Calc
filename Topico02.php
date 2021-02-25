@@ -19,37 +19,89 @@ include('layout/header.php');
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
             <h2 class="font-bold LaranjaEstado">
-                <i class="fas fa-folder"></i> 1 – Conhecendo a interface do Calc
+                <i class="fas fa-folder"></i> 2 - Trabalhando com células, colunas, linhas e folhas de cálculo
             </h2>
 
-            <p class="Texto"><strong>Objetivo:</strong>  Apresentar o editor de planilhas Calc e seus elementos básicos.
+            <p class="Texto"><strong>Objetivo:</strong>  Conhecer alguns dos elementos básicos relacionados as células, colunas, linhas e folhas de cálculo.
             </p>
             
             <hr class="hrLaranja">
 
             <h2 class="font-bold LaranjaEstado">
-                <i class="fas fa-folder"></i> 01.1 - Suíte LibreOffice
+                <i class="fas fa-folder"></i> 02.1 - Intervalo de Célula    
             </h2>
             <hr >
 
             <p class="Texto">
-                Potente suíte de escritório, sua interface limpa. Suas poderosas ferramentas libertam a criatividade e melhoram a produtividade. O LibreOffice incorpora várias aplicações que a tornam uma da mais avançada suíte de escritório livre e de código aberto do mercado. O Calc permite abrir arquivos de outras suítes de escritório, como, por exemplo, o Pacote Office da Microsoft. Isso, graças à utilização do formato Open Document (ODF – OpenDocument Format).  
+            Saber a diferença entre o uso do ponto-e-vírgula e o uso dos dois pontos nas operações realizadas tanto no MSExcel quanto no LibreOffice Calc é de importância fundamental.  
             </p>
 
             <p class="Texto">
-                A Suíte conta com editor de texto (<strong>Writer</strong>), editor de planilhas (<strong>Calc</strong>), criador de apresentações (<strong>Impress</strong>), editor de desenho e fluxogramas (<strong>Draw</strong>), banco de dados (<strong>Base</strong>) e editor de equações (<strong>Math</strong>)
+                Imagine os seguintes dados: <strong>A4</strong> = 1; <strong>A5</strong> = 2; <strong>A6</strong> = 3.
             </p>
 
             <p class="Texto">
-                Trabalharemos durante nosso curso com a versão 5.4.2.2 do LibreOffice, mas você poderá utilizar qualquer outra versão.
+                O uso dos <strong>DOIS PONTOS</strong> “:” em planilhas eletrônicas equivale ao intervalo de um número <strong>a</strong> outro.
             </p>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Exemplo </h5></th>
+                        <td>
+                            <p class="Texto">
+                                =SOMA(A4:A6)
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                </table>
+            </div>
+
+            <p class="Texto">
+                Com essa fórmula dizemos para a planilha que efetue a soma dos valores contidos no intervalo entre as célula4 e A6.
+            </p>
+            <p class="Texto">
+                <strong>Em resumo, o cálculo realizado será: A4 + A5 + A6 = 1+2+3 = 6</strong>
+            </p>
+            <p class="Texto">
+                Ao utilizar <strong>PONTO E VÍRGULA</strong> "<strong>;</strong>" dizemos para a planilha que devem ser somados os números, e somente eles, contidos nas respectivas células citadas:
+            </p>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Exemplo </h5></th>
+                        <td>
+                            <p class="Texto">
+                                =SOMA(A4; A6)
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                </table>
+            </div>
+
+            <p class="Texto">
+                <strong>Em resumo, o cálculo realizado será: A4 + A6 = 1+3 = 4</strong>
+            </p>
+
+            <div class="Dica">
+                <p class="CuriosidadeTitulo"> Dica</p>
+                <p class="CuriosidadeTexto">
+                Vale lembrar que se quisermos selecionar as células A1, A2, A3, A4, A5, A6 e A7 para somar seu conteúdo, podemos fazer assim:
+                </p>
+                <p class="CuriosidadeTexto">
+                    <strong>=SOMA(A1;A2;A3;A4;A5;A6;A7)</strong> Ou de uma maneira mais simples: <strong>=SOMA(A1:A7)</strong>
+                </p>
+            </div>
 
             
             <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                    <a href="Apresentacao.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
-                    <a href="Topico01.2.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
+                    <a href="Topico01.5.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
+                    <a href="Topico02.2.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
                 </div>
             </div>
 
