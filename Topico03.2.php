@@ -375,6 +375,11 @@ include('layout/header.php');
                     <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
                 </p>
             </div>
+            <br>
+
+            <p class="Texto">
+                <strong> próxima aula, abordaremos as funções que estão disponíveis no Calc. Não acumule conteúdo e mantenha seus estudos em dia!</strong>
+            </p>
             
 
             <br><br>
