@@ -88,17 +88,17 @@ include('layout/header.php');
             <ul class="fa-ul">
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Digitar o nome na caixa Nome, quando você criar a folha, ou;
+                        <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Digitar o nome na caixa Nome, quando você criar a folha, ou;
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Clicar com o botão direito do mouse e escolher a opção <strong>Renomear Planilha</strong> no menu de contexto e trocar o nome atual por um de sua escolha.
+                        <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Clicar com o botão direito do mouse e escolher a opção <strong>Renomear Planilha</strong> no menu de contexto e trocar o nome atual por um de sua escolha.
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"></span><i class="fas fa-arrow-right"></i> Clicar duas vezes na aba da folha para abrir a caixa de diálogo <strong>Renomear Planilha</strong>.
+                        <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> Clicar duas vezes na aba da folha para abrir a caixa de diálogo <strong>Renomear Planilha</strong>.
                     </p>
                 </li>
             </ul>
@@ -117,25 +117,25 @@ include('layout/header.php');
 
             <ul class="fa-ul">
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> <strong>Excluir tudo:</strong> exclui todo o conteúdo da célula, independentemente de qual seja;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> <strong>Excluir tudo:</strong> exclui todo o conteúdo da célula, independentemente de qual seja;
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> <strong>Números:</strong> apenas os números serão excluídos;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> <strong>Números:</strong> apenas os números serão excluídos;
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> <strong>Texto:</strong> se houver letras e números selecionados, apenas as “letras” serão excluídas;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> <strong>Texto:</strong> se houver letras e números selecionados, apenas as “letras” serão excluídas;
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> <strong>Fórmulas:</strong> apenas fórmulas serão excluídas;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> <strong>Fórmulas:</strong> apenas fórmulas serão excluídas;
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> <strong>Formatos:</strong> apenas a formatação (tipo de letra, tamanho de letra, cor etc) será excluída;
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> <strong>Formatos:</strong> apenas a formatação (tipo de letra, tamanho de letra, cor etc) será excluída;
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> <strong>Objetos:</strong> exclui apenas objetos (figuras, formas ou botões);
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> <strong>Objetos:</strong> exclui apenas objetos (figuras, formas ou botões);
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-arrow-right"></i> <strong>Datas e horas:</strong> apenas formatos de data e horas serão excluídos.
+                    <span class="fa-li"></span><i class="fas fa-arrow-right LaranjaEstado"></i> <strong>Datas e horas:</strong> apenas formatos de data e horas serão excluídos.
                 </li>
             </ul>
 
