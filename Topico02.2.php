@@ -23,9 +23,9 @@ include('layout/header.php');
             </h2>
             <hr >
 
-            <h2 class="font-bold AzulEstado">
-                <i class="fas fa-folder"></i> 02.2.1 Células
-            </h2>
+            <h3 class="font-bold AzulEstado">
+                <i class="fas angle-double-right"></i> 02.2.1 Células
+            </h3>
             <hr class="hrAEstado">
 
             <p class="Texto">
@@ -108,9 +108,9 @@ include('layout/header.php');
                 </table>
             </div>
 
-            <h2 class="font-bold AzulEstado">
-                <i class="fas fa-folder"></i> 02.2.2 - Colunas, linhas e folhas
-            </h2>
+            <h3 class="font-bold AzulEstado">
+                <i class="fas fa-angle-double-right"></i> 02.2.2 - Colunas, linhas e folhas
+            </h3>
             <hr class="hrAEstado">
 
             <p class="Texto">
@@ -166,14 +166,22 @@ include('layout/header.php');
                 Você também pode pressionar <strong>Ctrl+A</strong> para selecionar folhas inteiras ou indo em <strong>Editar → Selecionar tudo</strong>.
             </p>
 
+            <div class="text-center">
+                <p class="TituloFigura"><strong>Figura 4:</strong> Seleção de Planilha </p>
+                <a href="imagens/Figura04.png" data-toggle="lightbox" data-footer="Seleção de Planilha">
+                    <img class="img-fluid" src="imagens/Figura04.png" alt="Alt_da_Imagem">
+                </a>
+                <p class="FonteFigura"><strong>Fonte:</strong> EGPCE</p>
+            </div>
+
 
         
             
             <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                    <a href="Topico01.4.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
-                    <a href="Topico02.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
+                    <a href="Topico02.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
+                    <a href="Topico02.3.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
                 </div>
             </div>
 

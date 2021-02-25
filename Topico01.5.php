@@ -31,18 +31,18 @@ include('layout/header.php');
                 <p class="FonteFigura"><strong>Fonte:</strong> EGPCE</p>
             </div>
 
-            <h2 class="font-bold AzulEstado">
-                <i class="fas fa-folder"></i> 01.5.1 - Barra de título
-            </h2>
+            <h3 class="font-bold AzulEstado">
+                <i class="fas fa-angle-double-right"></i> 01.5.1 - Barra de título
+            </h3>
             <hr class="hrAEstado">
 
             <p class="Texto">
                 Localizada no alto da tela, mostra o nome do documento atual. Quando a planilha for recém-criada, seu nome será “Sem título X”, onde X é um número. Ao ser salva pela primeira vez, você será solicitado a dar um nome a essa planilha. Encontram-se ainda na barra: a logo do Calc (lado superior esquerdo) e os botões de minimizar, restaurar/maximizar e fechar (lado superior direito).
             </p>
 
-            <h2 class="font-bold AzulEstado">
-                <i class="fas fa-folder"></i> 01.5.2 - Barra de menu
-            </h2>
+            <h3 class="font-bold AzulEstado">
+                <i class="fas fa-angle-double-right"></i> 01.5.2 - Barra de menu
+            </h3>
             <hr class="hrAEstado">
             
             <p class="Texto">
@@ -58,9 +58,9 @@ include('layout/header.php');
             </div>
             <br>
 
-            <h2 class="font-bold AzulEstado">
-                <i class="fas fa-folder"></i> 01.5.3 - Barra de ferramentas
-            </h2>
+            <h3 class="font-bold AzulEstado">
+                <i class="fas fa-angle-double-right"></i> 01.5.3 - Barra de ferramentas
+            </h3>
             <hr class="hrAEstado">
 
             <p class="Texto">
