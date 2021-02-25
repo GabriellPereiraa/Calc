@@ -112,7 +112,7 @@ include('layout/header.php');
                     <th class="BCorEad text-white textmiddle"><h5><i class="fas fa-bullseye"></i> Funções </h5></th>
                     <td>
                         <p class="Texto">
-                            <i class="fas fa-arrow-right"></i>São fórmulas pré-definidas (<strong>nativas</strong>) para pouparem tempo e trabalho na criação de uma equação. O Calc contém muitas funções nativas e o usuário é livre para implementar as suas próprias funções, há de se imaginar como sendo quase ilimitado o poder do usuário em estender a funcionalidade da planilha eletrônica.
+                            <i class="fas fa-arrow-right LaranjaEstado"></i>São fórmulas pré-definidas (<strong>nativas</strong>) para pouparem tempo e trabalho na criação de uma equação. O Calc contém muitas funções nativas e o usuário é livre para implementar as suas próprias funções, há de se imaginar como sendo quase ilimitado o poder do usuário em estender a funcionalidade da planilha eletrônica.
                         </p>
                     </td>
                 </tr>
