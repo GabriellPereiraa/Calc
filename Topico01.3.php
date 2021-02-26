@@ -27,12 +27,13 @@ include('layout/header.php');
                 Para instalar a Suíte LibreOffice, assista aos vídeos:
             </p>
 
+            <div class="text-center">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/XEOHl_6bpNs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-            <br>
+            <br><br>
 
             <iframe width="560" height="315" src="https://www.youtube.com/embed/34fBPRUh9-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+            </div>
             
             <br><br>
             <div class="center">
