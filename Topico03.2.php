@@ -53,15 +53,15 @@ include('layout/header.php');
             </section>
             <br>
 
-
+            <hr>
             <div>
                 <p class="AtividadeTitulo"> Pratique</p>
                 <p class="AtividadeTexto">Uma maneira rápida e fácil de aplicar o recurso de mesclagem de células é procurar o atalho<img class="img-fluid" src="imagens/atalho.png">, localizado na barra de formatação. Por padrão, ele mescla e centraliza o conteúdo.</p> 
                 <p class="Texto">
                     <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
                 </p>
-
             </div>
+            <hr>
             <br>
 
 
@@ -338,6 +338,7 @@ include('layout/header.php');
             </p>
             <br>
 
+            <hr>
             <div>
                 <p class="ImportanteTitulo"> Importante</p>
                 <p class="ImportanteTexto">
@@ -356,10 +357,11 @@ include('layout/header.php');
                     Utilizamos o "<strong>Salvar Como</strong>" quando precisamos dar um nome ao arquivo (ou substituir o nome) e dizer ao programa onde este arquivo será gravado (pasta, unidade ou diretório). Usamos o Salvar (<strong>Arquivo – Salvar</strong>) para atualizar as alterações feitas em seu arquivo.
                 </p>
             </div>
+            <hr>
             <br><br>
             
             <div>
-                <p class="AtividadeTitulo"> Atividade</p>
+                <p class="AtividadeTitulo"> Pratique</p>
                 <p class="AtividadeTexto">Vamos agora colocar em prática os conceitos aprendidos até o momento. Abra seu LibreOffice Calc e digite a planilha abaixo:</p>
 
                 <div class="text-center">
