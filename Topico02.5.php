@@ -71,6 +71,7 @@ include('layout/header.php');
                 <strong>Múltiplas folhas:</strong> selecione-as utilizando o botão esquerdo do mouse e a tecla <strong>CTRL</strong>, e clique com o botão direito do mouse sobre uma das abas e escolha a opção "<strong>Excluir Planilha</strong>" no menu de contexto, ou <strong>clique em</strong> "<strong>Planilha→ Excluir planilha</strong>" na barra de menu.
             </p>
 
+            <br>
             <h3 class="font-bold AzulEstado">
                 <i class="fas fa-angle-double-right"></i> 02.5.3 - Renomear folhas
             </h3>
