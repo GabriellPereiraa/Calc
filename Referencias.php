@@ -29,15 +29,15 @@ include('layout/header.php');
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> <strong>Curso Básico de LibreOffice.org – EGPCE</strong> Disponível em: <a href="http://softwarelivre.ceara.gov.br/phocadownload/libreoffice.org.basico.apostila.hist.calc.writer.2011r02.pdf">http://softwarelivre. ceara.gov.br/ phocadownload/ libreoffice.org.basico. apostila.hist.calc. writer.2011r02.pdf</a>. Acesso em 15 de fevereiro de 2017.
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> <strong>Curso Básico de LibreOffice.org – EGPCE</strong> Disponível em: <a href="http://softwarelivre.ceara.gov.br/phocadownload/libreoffice.org.basico.apostila.hist.calc.writer.2011r02.pdf" target="_blank">http://softwarelivre. ceara.gov.br/ phocadownload/ libreoffice.org.basico. apostila.hist.calc. writer.2011r02.pdf</a>. Acesso em 15 de fevereiro de 2017.
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> <strong>Guia de introdução às funções do LibreOffice Calc</strong> Disponível em: <a href="https://wiki.documentfoundation.org/images/9/95/Guia_de_Introdu%C3%A7%C3%A3o_%C3%A0s_Fun%C3%A7%C3%B5es_do_LibreOffice_Calc.pdf">https://wiki.document foundation.org/images/ 9/95/Guia_de_Introdu %C3%A7%C3%A3o_ %C3%A0s_Fun%C3%A7% C3%B5es_do_ LibreOffice_Calc.pdf</a>. Acesso em 15 de fevereiro de 2017.
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> <strong>Guia de introdução às funções do LibreOffice Calc</strong> Disponível em: <a href="https://wiki.documentfoundation.org/images/9/95/Guia_de_Introdu%C3%A7%C3%A3o_%C3%A0s_Fun%C3%A7%C3%B5es_do_LibreOffice_Calc.pdf" target="_blank">https://wiki.document foundation.org/images/ 9/95/Guia_de_Introdu %C3%A7%C3%A3o_ %C3%A0s_Fun%C3%A7% C3%B5es_do_ LibreOffice_Calc.pdf</a>. Acesso em 15 de fevereiro de 2017.
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> <strong>LibreOffice – The Document Foundation</strong> Disponível em: <a href="https://pt-br.libreoffice.org/descubra/calc/">https://pt- br.libreoffice.org /descubra/calc/</a>. Acesso em 15 de fevereiro de 2017. 
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> <strong>LibreOffice – The Document Foundation</strong> Disponível em: <a href="https://pt-br.libreoffice.org/descubra/calc/" target="_blank">https://pt- br.libreoffice.org /descubra/calc/</a>. Acesso em 15 de fevereiro de 2017. 
                     </li>
                     <br>
                 </ul>
