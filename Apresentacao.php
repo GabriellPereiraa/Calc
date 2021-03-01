@@ -22,6 +22,8 @@ include('layout/header.php');
                 <h2 class="font-bold" style="color: #008445;">
                     Apresentação
                 </h2>
+                <img src="imagens/Apresentacao.png" class="img-fluid">
+                <br><br>
 
                 <p class="Texto">
                     <strong>Bem-vindo ao “Calc para Iniciantes”!</strong>
