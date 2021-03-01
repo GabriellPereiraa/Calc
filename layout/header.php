@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>EGPCE | UX</title>
+    <title>EGPCE | LibreOffice Calc</title>
 
     <link rel="stylesheet" href="assets/css/mdb.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.css">
